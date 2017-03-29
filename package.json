@@ -1,0 +1,14 @@
+{
+  "name": "calendar",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bin/build.js",
+  "scripts": {
+    "dev": "node bin/build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webcompiler": "^6.8.4"
+  }
+}
