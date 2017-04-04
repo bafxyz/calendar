@@ -1,6 +1,6 @@
 import EventEmmiter from 'events';
 
-class Calculator extends EventEmmiter {
+class Calendar extends EventEmmiter {
 
   constructor(options) {
     super();
@@ -14,4 +14,4 @@ class Calculator extends EventEmmiter {
 
 }
 
-export default Calculator;
+export default Calendar;
